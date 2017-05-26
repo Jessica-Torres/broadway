@@ -19,3 +19,10 @@ h2 {
   color: white;
   font-size: 18px;
 }
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.process-text {
+  font-size: 14px
+}
